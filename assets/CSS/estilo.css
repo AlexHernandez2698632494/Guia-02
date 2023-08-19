@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Trajan Pro', sans-serif;;
     margin: 0;
     padding: 0;
-    background-color: 5, 4, 55;
+    background-color: #98C0F9;
 }
 
 header {
@@ -47,4 +47,7 @@ footer {
 #presentacion{
     width: 900px;
     text-align: center;
+}
+#o11ce{
+    width: 150px;
 }
