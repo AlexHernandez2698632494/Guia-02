@@ -1,0 +1,45 @@
+body {
+    font-family: 'Trajan Pro', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ec4747;
+}
+header {
+    background-color: #8B0000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: #FF0000;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+nav a:hover {
+    background-color: #FF0000;
+}
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #FF5D5D;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+footer {
+    background-color: #050437;
+    color: #aa9554;
+    text-align: center;
+    padding: 10px;
+}
+#imagoplataform{
+    width: 70px;
+}
+
