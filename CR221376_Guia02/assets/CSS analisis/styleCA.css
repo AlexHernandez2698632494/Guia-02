@@ -1,0 +1,180 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: 5, 4, 55;
+}
+
+header {
+    background-color: #030027;
+    color: #aa9554;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #182284;
+    color: #aa9554;
+    text-align: center;
+    padding: 5px;
+}
+
+nav a {
+    color: #aa9554;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: #182284;
+}
+
+.asidecontainer {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    height: 150px;
+    float: right;
+}
+
+.container {
+    max-width: 760px;
+    margin: 30px;
+    padding: 20px;
+    background-color: #c7dcfc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+}
+
+img {
+    width: 150px;
+}
+
+footer {
+    background-color: #050437;
+    color: #aa9554;
+    text-align: center;
+    padding: 10px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+th,
+td {
+    border: 1px solid #042e8a;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #042e8a;
+    color: white;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc;
+}
+
+#BanderaBeli {
+    width: 250px;
+}
+
+#HimnoGuate {
+    width: 700px;
+    height: 500px;
+}
+
+#AveGuate {
+    width: 300px;
+}
+
+#Marimba {
+    width: 300px;
+}
+
+.td {
+    text-align: center;
+}
+
+#TuriGuate {
+    width: 200px;
+}
+
+#OrgaTerriGuate {
+    width: 250px;
+}
+
+#Bio {
+    width: 250px;
+}
+
+#TuriCosta {
+    width: 200px;
+}
+
+#himnPana {
+    width: 350px;
+}
+
+#SimboPana {
+    width: 250px;
+}
+
+#turiPana {
+    width: 300px;
+}
+
+#DistriPana {
+    width: 350px;
+}
+
+#histoHondu {
+    width: 250px;
+}
+
+#BandHon {
+    width: 260px;
+}
+
+#himnhon {
+    width: 700px;
+}
+
+#FlHon {
+    width: 250px;
+}
+
+#AVHon {
+    width: 260px;
+}
+
+#ArHon {
+    width: 280px;
+}
+
+#terriHondu {
+    width: 540px;
+}
+
+#histoSV {
+    width: 350px;
+}
+
+#simboNica {
+    width: 600px;
+}
